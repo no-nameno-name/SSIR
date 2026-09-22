@@ -1,7 +1,7 @@
 
-# USEFUL: A Universal DNN-based Symmetric Encryption Framework Using Adversarial Examples
+SSIR: Secure and Stealthy Information Representation via Image-Key-Controlled DNN States
 
-*KEYWORDS：Neural networks, Cryptography, Deep learning, Adversarial examples, encryption*
+
 
 
 ## Description
